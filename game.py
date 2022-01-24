@@ -1,6 +1,6 @@
 import sys
 import pygame
-from pygame.locals import KEYDOWN, K_q
+
 
 pygame.init()
 
